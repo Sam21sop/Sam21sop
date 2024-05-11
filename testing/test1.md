@@ -1,34 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sopan Bhere</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam21sop&label=Profile%20views&color=0e75b6&style=flat" alt="sam21sop" /> </p>
-
-- 🔭 I’m currently working on [MERN Stack Application](https://github.com/Sam21sop/Buy-Busy)
-
-- 🌱 I’m currently learning **React-Redux-Toolkit and Nextjs**
-
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/Sam21sop/Portfolio](https://github.com/Sam21sop/Portfolio) -->
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **sam21sop@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Sam21sop/Sam21sop/blob/main/BE_CV.pdf](https://github.com/Sam21sop/Sam21sop/blob/main/BE_CV.pdf)
-
-
-<h1>Connect with me:</h1>
-
-  <a href="https://www.linkedin.com/in/sopan-kb21/" >
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sopan-kb21/" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/sam21sop/" >
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sam21sop/" height="30" width="40" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/SOPAN">
-    <img align="center" src="https://www.codingninjas.com/careercamp/wp-content/uploads/2022/06/logo-05.png" alt="https://leetcode.com/sam21sop/" height="30" width="60" />
-  </a>
-  
-</p>
 
 
 <style>
@@ -48,7 +17,7 @@
     display:flex;    
     }
 </style>
-<h1>Languages and Tools:</h1>
+<h1>Create a Flex Container</h1>
 
 <div class="flex-container">
   <div>
@@ -115,4 +84,6 @@
     </a> 
   </div>
 </div>
+
+
 
