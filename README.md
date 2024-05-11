@@ -50,7 +50,7 @@
 </style> -->
 <h1>Languages and Tools:</h1>
 
-<div style="display: flex;">
+<!-- <div style="display: flex;"> -->
   <div 
     style="
       background-color: rgb(240,250, 40);
@@ -58,7 +58,6 @@
       padding: 15px;
       font-size: 30px;
       border-radius:10px;
-      width:40%;
       justify-content:space-evenly;
       gap:10px;
       display:flex;
@@ -101,7 +100,7 @@
   </div> 
 </div>
 
-<div style="display: flex;">
+<!-- <div style="display: flex;"> -->
   <div 
     style="
       background-color: rgb(240,250, 40);
@@ -154,31 +153,6 @@
     </a> 
   </div> 
 </div>
-
-<div style="display: flex;">
-  <div 
-    style="
-      background-color: rgb(240,250, 40);
-      margin: 15px;
-      padding: 15px;
-      font-size: 30px;
-      border-radius:10px;
-      width:40%;
-      justify-content:space-evenly;
-      gap:10px;
-      display:flex;
-    "
-    align="center"
-  >
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-  </div>
-</div>
-
 
 
 <div align="center">
