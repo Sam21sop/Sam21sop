@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam21sop&label=Profile%20views&color=0e75b6&style=flat" alt="sam21sop" /> </p>
 
-- 🔭 I’m currently working on [MERN Stack Application](https://github.com/Sam21sop/Buy-Busy)
+- 🔭 I’m currently working on [MERN Stack Application](https://github.com/Sam21sop/inventory-management-MERN)
 
 - 🌱 I’m currently learning **React-Redux-Toolkit and Nextjs**
 
