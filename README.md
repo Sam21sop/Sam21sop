@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sam21sop@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Sam21sop/Sam21sop/blob/main/BE_CV.pdf](https://github.com/Sam21sop/Sam21sop/blob/main/BE_CV.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Sam21sop/Sam21sop/blob/main/Resume_14062024.pdf)
 
 
 <h1 align="left" style="font-size:36px;">Connect with me:</h1>
