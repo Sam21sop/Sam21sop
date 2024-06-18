@@ -94,18 +94,15 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
 
-<h1 align="center" style="font-size:36px;">My Work</h1>
+<h1 align="center" style="font-size:36px;">My Work Experience</h1>
 
-<h2 align="left" style="font-size:30px;">List of Projects:</h2>
 
-| MERN | Front-End | Backend |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
 
-<h2 align="left" style="font-size:30px;">Projects Description:</h2>
-
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| <h3 align="center">Project Title</h3> | <h3 align="center" >Project Github Link</h3> | <h3 align="center" >Project Description</h3> |
+| --- | --- | --- |
+| Inventory Management | [Inventory Management](https://github.com/Sam21sop/inventory-management-MERN) | This project is an order and inventory management application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It features user authentication, product management, order processing, inventory management, and statistics generation functionalities.
+| E-Commerce | [E-commerce](https://github.com/Sam21sop/E-Commerce-MERN) | A MERN stack e-commerce application leverages MongoDB for data storage, Express.js for server-side logic, React for the front-end interface, and Node.js for runtime. It facilitates product listings, user authentication, shopping cart functionality, and secure transactions.
+| Dashboard | [Dashboard](https://github.com/Sam21sop/react-dashboard) | A user dashboard built with React and Tailwind CSS offers a responsive, modern interface for users to manage their profiles, view analytics, and access personalized content. Tailwind CSS provides utility-first styling, ensuring a clean, efficient, and easily customizable design.
+| PhotoFollio | [PhotoFolio](https://github.com/Sam21sop/PhotoFolio) | Photofolio is an online photo album/Gallery react app that allows user to upload, organize and share their digital photos.
+| Issue Tracker | [Issue Tracker](https://github.com/Sam21sop/Issue-Tracker) | A Node.js, Express, and MongoDB application track project issues/bugs with user authentication. It allows users to log in, report, and manage issues, ensuring secure access and organized tracking of project-related bugs for efficient resolution and project management.
+| Employee Review System | [Employee Review System](https://github.com/Sam21sop/Employee-Review-System) | Application that allows employees to submit feedback toward each other’s performance. he admin has a special power, to make any other employee the new admin. Admin can also make the new employee, and they can also assign the reviewer and reviewee. 
