@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sam21sop@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/Sam21sop/Sam21sop/blob/main/Resume_14062024.pdf)
+- 📄 More About Me! [Here](https://github.com/Sam21sop/Sam21sop/blob/main/Resume_14062024.pdf)
 
 
 <h1 align="left" style="font-size:36px;">Connect with me:</h1>
@@ -94,3 +94,18 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
 
+<h1 align="center" style="font-size:36px;">My Work</h1>
+
+<h2 align="left" style="font-size:30px;">List of Projects:</h2>
+
+| MERN | Front-End | Backend |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+<h2 align="left" style="font-size:30px;">Projects Description:</h2>
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
