@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MERN Stack Application](https://github.com/Sam21sop/inventory-management-MERN)
 
-- 🌱 I’m currently learning **React-Redux-Toolkit and Nextjs**
+- 🌱 I’m currently learning **React-Redux-Toolkit**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/Sam21sop/Portfolio](https://github.com/Sam21sop/Portfolio) -->
 
@@ -21,11 +21,11 @@
   <a href="https://www.linkedin.com/in/sopan-kb21/" >
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sopan-kb21/" height="30" width="40" />
   </a>
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://leetcode.com/sam21sop/" >
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sam21sop/" height="30" width="40" />
   </a>
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.naukri.com/code360/profile/SOPAN">
     <img align="center" src="https://www.codingninjas.com/careercamp/wp-content/uploads/2022/06/logo-05.png" alt="https://leetcode.com/sam21sop/" height="30" width="60" />
   </a>
