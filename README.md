@@ -19,17 +19,20 @@
 <h1 align="left" style="font-size:36px;">Connect with me:</h1>
 
   <a href="https://www.linkedin.com/in/sopan-kb21/" >
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sopan-kb21/" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://leetcode.com/sam21sop/" >
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sam21sop/" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.naukri.com/code360/profile/SOPAN">
-    <img align="center" src="https://www.codingninjas.com/careercamp/wp-content/uploads/2022/06/logo-05.png" alt="https://leetcode.com/sam21sop/" height="30" width="60" />
+    <img align="center" src="https://www.codingninjas.com/careercamp/wp-content/uploads/2022/06/logo-05.png" alt="Naukri" height="40" width="60" />
   </a>
-  
+   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://www.hackerrank.com/profile/sbussiness21">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="Hacker Rank" height="40" width="60" />
+  </a>  
 </p>
 
 
