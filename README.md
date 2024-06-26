@@ -103,6 +103,7 @@
 
 | <h3 align="center">Project Title</h3> | <h3 align="center" >Project Github Link</h3> | <h3 align="center" >Project Description</h3> |
 | --- | --- | --- |
+| Movie Watchlist | [Movie Watchlist](https://github.com/Sam21sop/movie-application-MERN) | The Movie Watchlist application is a web-based tool that allows users to manage a list of movies they want to watch. Users can add, edit, and delete movies from their watchlist, mark movies as watched or unwatched, and rate and review movies.
 | Inventory Management | [Inventory Management](https://github.com/Sam21sop/inventory-management-MERN) | This project is an order and inventory management application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It features user authentication, product management, order processing, inventory management, and statistics generation functionalities.
 | E-Commerce | [E-commerce](https://github.com/Sam21sop/E-Commerce-MERN) | A MERN stack e-commerce application leverages MongoDB for data storage, Express.js for server-side logic, React for the front-end interface, and Node.js for runtime. It facilitates product listings, user authentication, shopping cart functionality, and secure transactions.
 | Dashboard | [Dashboard](https://github.com/Sam21sop/react-dashboard) | A user dashboard built with React and Tailwind CSS offers a responsive, modern interface for users to manage their profiles, view analytics, and access personalized content. Tailwind CSS provides utility-first styling, ensuring a clean, efficient, and easily customizable design.
