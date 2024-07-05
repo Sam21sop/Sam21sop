@@ -108,5 +108,22 @@
 | E-Commerce | [E-commerce](https://github.com/Sam21sop/E-Commerce-MERN) | A MERN stack e-commerce application leverages MongoDB for data storage, Express.js for server-side logic, React for the front-end interface, and Node.js for runtime. It facilitates product listings, user authentication, shopping cart functionality, and secure transactions.
 | Dashboard | [Dashboard](https://github.com/Sam21sop/react-dashboard) | A user dashboard built with React and Tailwind CSS offers a responsive, modern interface for users to manage their profiles, view analytics, and access personalized content. Tailwind CSS provides utility-first styling, ensuring a clean, efficient, and easily customizable design.
 | PhotoFollio | [PhotoFolio](https://github.com/Sam21sop/PhotoFolio) | Photofolio is an online photo album/Gallery react app that allows user to upload, organize and share their digital photos.
-| Issue Tracker | [Issue Tracker](https://github.com/Sam21sop/Issue-Tracker) | A Node.js, Express, and MongoDB application track project issues/bugs with user authentication. It allows users to log in, report, and manage issues, ensuring secure access and organized tracking of project-related bugs for efficient resolution and project management.
-| Employee Review System | [Employee Review System](https://github.com/Sam21sop/Employee-Review-System) | Application that allows employees to submit feedback toward each other’s performance. he admin has a special power, to make any other employee the new admin. Admin can also make the new employee, and they can also assign the reviewer and reviewee. 
+| Issue Tracker | [Issue Tracker](https://github.com/Sam21sop/Issue-Tracker) | A Node.js, Express, and MongoDB application tracks project issues/bugs with user authentication. It allows users to log in, report, and manage issues, ensuring secure access and organized tracking of project-related bugs for efficient resolution and project management.
+| Employee Review System | [Employee Review System](https://github.com/Sam21sop/Employee-Review-System) | Application that allows employees to submit feedback toward each other’s performance. The admin has a special power, to make any other employee the new admin. Admin can also make the new employee, and they can also assign the reviewer and reviewer. 
+
+
+<h1 align="left" style="font-size:25px;">My Github Stats 📊</h1>
+<div align="center">
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sam21sop&show_icons=true&locale=en" alt="github-stats" />
+  </div>
+  <div>
+<!--     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam21sop&show_icons=true&locale=en" alt="github-stats" /> -->
+    <a href="https://github.com/Sam21sop/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="github-streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam21sop&theme=black-ice&hide_border=true&stroke=0000&background=22272e"/>
+    </a>
+  </div>
+</div>
+
+<br/>
+<h1 align="center">Thank You For Visiting 🙏</h1>
